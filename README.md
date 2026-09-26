@@ -13,9 +13,9 @@
     - https://www.angelcode.com/products/bmfont/
     - Neo둥근 폰트 선택
     - `Korean.fnt`
-        - 폰트 사이즈: 48px
+        - 폰트 사이즈: 40px
         - 적용 폰트: 모두 선택
-        - 이미지 사이즈: 1024*1712 (12장)
+        - 이미지 사이즈: 1024*1216 (12장)
         - **이미지 사이즈 조절해서 딱 12장을 만들어야함**
     - `SmallFont.ko-KR.fnt`
         - 폰트 사이즈: 26px
