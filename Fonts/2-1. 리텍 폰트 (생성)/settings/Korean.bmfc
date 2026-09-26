@@ -5,7 +5,7 @@ fileVersion=1
 fontName=Neo둥근모
 fontFile=
 charSet=129
-fontSize=30
+fontSize=48
 aa=1
 scaleH=100
 useSmoothing=1
@@ -35,7 +35,7 @@ widthPaddingFactor=0.00
 
 # output file
 outWidth=1024
-outHeight=976
+outHeight=1712
 outBitDepth=32
 fontDescFormat=1
 fourChnlPacked=0
