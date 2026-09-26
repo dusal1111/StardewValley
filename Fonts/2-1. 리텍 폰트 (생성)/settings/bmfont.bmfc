@@ -2,9 +2,9 @@
 fileVersion=1
 
 # font settings
-fontName=Neo둥근모
+fontName=DeltaDotumKR
 fontFile=
-charSet=129
+charSet=0
 fontSize=30
 aa=1
 scaleH=100
@@ -34,8 +34,8 @@ forceZero=0
 widthPaddingFactor=0.00
 
 # output file
-outWidth=1024
-outHeight=740
+outWidth=4096
+outHeight=2048
 outBitDepth=32
 fontDescFormat=1
 fourChnlPacked=0
@@ -54,9 +54,6 @@ invB=0
 outlineThickness=0
 
 # selected chars
-chars=0-0,32-126,160-172,174-255,305,4352-4370,4449-4469,4520-4546,8192-8231,8261-8262,8267-8271,8304
-chars=8305,8308-8334,8336-8348,8361,8528-8543,8585,9312-9727,9776-9783,10102-10131,10240-10495,12288-12290
-chars=12296-12305,12308-12315,12593-12643,12800-12828,12896-12923,12926,44032-55203,57504-57506,57520
-chars=57521-57523,65024-65039,65281-65374,65377-65380,65504-65510
+chars=32-126,12593-12643,12645-12686,44032-55203
 
 # imported icon images

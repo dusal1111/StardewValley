@@ -2,9 +2,9 @@
 fileVersion=1
 
 # font settings
-fontName=Neo둥근모
+fontName=DeltaDotumKR
 fontFile=
-charSet=129
+charSet=0
 fontSize=30
 aa=1
 scaleH=100
@@ -54,6 +54,6 @@ invB=0
 outlineThickness=0
 
 # selected chars
-chars=0-0,32-126,8192-8231,8261-8262,8267-8271,12593-12643,44032-55203
+chars=32-126,12593-12643,12645-12686,44032-55203
 
 # imported icon images
