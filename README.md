@@ -4,32 +4,8 @@
 
 ## 폰트
 
-폰트 적용 방법: https://naver.me/xnOAcNS1
+1. `Fonts\2-3. 리텍폰트\` 에 있는 파일 모두 복사해서
 
-1. 폰트 다운로드
-    - **Neo둥근**: https://neodgm.dalgona.dev/index.html
-    - **델타돋움**: https://eocnd1116.github.io/qhtjrFont/index.html?type=1&n=0
-2. bitmap font generator 다운로드
-    - https://www.angelcode.com/products/bmfont/
-    - `Korean.fnt` (네오둥근)
-        - 폰트 사이즈: 30px
-        - 적용 폰트: 모두 선택
-        - 이미지 사이즈: 1024*740 (12장)
-    - `SmallFont.ko-KR.fnt` (델타돋움)
-        - 폰트 사이즈: 26px
-        - 적용 폰트: 한글모두+라틴기본+일반문장부호
-        - 이미지 사이즈: 4096*2048 (1장)
-    - `SpriteFont1.ko-KR.fnt` (델타돋움)
-        - 폰트 사이즈: 30px
-        - 적용 폰트: 한글모두+라틴기본+일반문장부호
-        - 이미지 사이즈: 4096*2048 (1장)
-
-3. 위의 카페 글에서 font parser 다운로드
-    - 하라는대로 파일들 넣어서 변환 -> output에 결과물 나옴
-    - **파이썬 파일 돌려서 Korean/Small/Sprite 폰트 위치 내려주기**
-
-4. xnb <-> png 변환 프로그램 다운로드
-    - https://github.com/LeonBlade/xnbcli/releases
-    - 변한된 파일을 수정한 파일로 바꾼 후 모두 unpacked에 넣어서 `pack.bat` 돌리면 packed에 결과물 나옴
+2. 스타듀밸리 파일의 `Content\Fonts\`에 붙여넣기
 
 ## 초상화
