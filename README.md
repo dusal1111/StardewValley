@@ -10,15 +10,32 @@
 
 <table>
   <tr>
-    <td valign="top" width="32%">
-      <img src="0. img/1. Fonts/font1.jpg" alt="폰트사진1"/>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/1. 생성.jpg" alt="생성"/>
     </td>
-    <td valign="top" width="32%">
-      <img src="0. img/1. Fonts/font2.jpg" alt="폰트사진2"/>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/2. 불러오기.jpg" alt="불러오기"/>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/3. 로딩중.jpg" alt="로딩중"/>
     </td>
-    <td valign="top" width="32%">
-      <img src="0. img/1. Fonts/font3.jpg" alt="폰트사진3"/>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/4. 편지.jpg" alt="편지"/>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/5. 대사.jpg" alt="대사"/>
     </td>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/6. 말풍선.jpg" alt="말풍선"/>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/7. 제작.jpg" alt="제작"/>
+    </td>
+    <td valign="top" width="50%">
+      <img src="0. img/1. Fonts/8. 설정.jpg" alt="설정"/>
   </tr>
 </table>
 

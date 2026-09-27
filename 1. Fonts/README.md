@@ -8,9 +8,9 @@
 2. bitmap font generator 다운로드
     - https://www.angelcode.com/products/bmfont/
     - `Korean.fnt` (네오둥근)
-        - 폰트 사이즈: 30px
+        - 폰트 사이즈: 26px
         - 적용 폰트: 모두 선택
-        - 이미지 사이즈: 1024*740 (12장)
+        - 이미지 사이즈: 1024*560 (12장)
     - `SmallFont.ko-KR.fnt` (델타돋움)
         - 폰트 사이즈: 26px
         - 적용 폰트: 한글모두+라틴기본+일반문장부호

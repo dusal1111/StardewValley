@@ -3,7 +3,7 @@ import os
 
 path = "SmallFont.ko-KR.json"
 
-Y_OFFSET = 6 # 여기를 수정
+Y_OFFSET = 4 # 여기를 수정
 
 with open(path, "r", encoding="utf-8") as f:
     data = json.load(f)
