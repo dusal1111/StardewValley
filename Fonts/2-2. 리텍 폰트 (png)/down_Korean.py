@@ -6,7 +6,7 @@ with open(path, "r", encoding="utf-8") as f:
     text = f.read()
 
 def repl(m):
-    return f'yoffset="{int(m.group(1)) + 4}"'
+    return f'yoffset="{int(m.group(1)) + 6}"' # 여기를 수정
 
 text = re.sub(r'yoffset="(-?\d+)"', repl, text)
 

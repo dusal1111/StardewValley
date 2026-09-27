@@ -3,9 +3,9 @@ fileVersion=1
 
 # font settings
 fontName=DeltaDotumKR
-fontFile=
+fontFile=DeltaDotumKR_low.ttf
 charSet=0
-fontSize=30
+fontSize=26
 aa=1
 scaleH=100
 useSmoothing=1

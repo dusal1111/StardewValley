@@ -26,10 +26,10 @@
 
 3. 위의 카페 글에서 font parser 다운로드
     - 하라는대로 파일들 넣어서 변환 -> output에 결과물 나옴
-    - **파이썬 파일 돌려서 Korean의 yoffset +4 해주기**
+    - **파이썬 파일 돌려서 Korean/Small/Sprite 폰트 위치 내려주기**
 
 4. xnb <-> png 변환 프로그램 다운로드
     - https://github.com/LeonBlade/xnbcli/releases
-    - 변환된 파일들 모두 unpacked에 넣어서 `pack.bat` 돌리면 packed에 결과물 나옴
+    - 변한된 파일을 수정한 파일로 바꾼 후 모두 unpacked에 넣어서 `pack.bat` 돌리면 packed에 결과물 나옴
 
 ## 초상화
