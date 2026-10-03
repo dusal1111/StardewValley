@@ -1,8 +1,8 @@
 import re
 
 path = "Korean.xml"
-Y_OFFSET = 8 # 여기 수정 (글씨 내리기)
-LINE_HEIGHT = 34 # 여기 수정 (줄간격)
+Y_OFFSET = 7 # 여기 수정 (글씨 내리기)
+LINE_HEIGHT = 36 # 여기 수정 (줄간격)
 
 with open(path, "r", encoding="utf-8") as f:
     text = f.read()

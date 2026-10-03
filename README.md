@@ -19,18 +19,18 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="0. img/1. Fonts/4. 편지.jpg" alt="편지"/>
+      <img src="0. img/1. Fonts/3. 편지.jpg" alt="편지"/>
     </t>
     <td valign="top" width="50%">
-      <img src="0. img/1. Fonts/6. 말풍선.jpg" alt="말풍선"/>
+      <img src="0. img/1. Fonts/4. 말풍선.jpg" alt="말풍선"/>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="0. img/1. Fonts/7. 제작.jpg" alt="제작"/>
+      <img src="0. img/1. Fonts/5. 제작.jpg" alt="제작"/>
     </td>
     <td valign="top" width="50%">
-      <img src="0. img/1. Fonts/8. 설정.jpg" alt="설정"/>
+      <img src="0. img/1. Fonts/6. 설정.jpg" alt="설정"/>
     </td>
   </tr>
 </table>
